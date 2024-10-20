@@ -1,0 +1,28 @@
+.list-item {
+  background-color: #ffffff;
+  margin: 13px;
+  width: 40%;
+}
+
+.place-image {
+  width: 100%;
+}
+.item-details-container {
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.item-heading {
+  font-size: 24px;
+  font-weight: 500;
+  color: #475569;
+  font-family: Roboto;
+  margin: 0px;
+}
+
+.item-description {
+  font-size: 17px;
+  font-weight: 400;
+  color: #64748b;
+  font-family: Roboto;
+}
